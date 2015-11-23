@@ -5992,7 +5992,7 @@ int idsRegenerationCreateCertificatesAndUMDKeys(u8 *buf)
 
 int module_start(SceSize args, void *argp)
 {
-	Kprintf("IdStorage Regeneration Module, by Dark_AleX, Lothar & Adrahil\n");
+	Kprintf("IdStorage Regeneration Module, by Dark_AleX & Adrahil\n");
 	
 	return 0;
 }
